@@ -2,7 +2,9 @@
 Apple silicon benchmark
 Nvidia A6000 vs M2 Max 38gpu core 64GB
 
-Model:opt-125m(huggingface pytorch) LORA finetune with PEFT FP32
+Model:opt-125m(huggingface pytorch) 
+
+LORA finetune with PEFT FP32
 
 Batchsize = 16 (input sequences less than 30 token)
 
